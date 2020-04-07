@@ -14,5 +14,7 @@ end
 #2 - You need more skyscrapers but you've encountered the 4
 #PLACEMENT OF THE 4
 #distance between initial number and 4
+#start larger number at 4 count down
+#constrain propagation
 
 p solve_row(1, 4)
